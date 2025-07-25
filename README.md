@@ -2,6 +2,10 @@
 ======================================
 
 A sleek and lightweight Android app to track cryptocurrency prices in real time. Built with Kotlin and XML, this app offers a clean UI and fast performance.
+<div align="center">
+<img src="https://github.com/RishulGupta/Crypto-App/blob/85b01cc6ae96a5bcc25f5ff28733f9f415522137/WhatsApp%20Image%202025-07-25%20at%2020.19.03_f57214d8.jpg" width=300 height=600>
+<img src="https://github.com/RishulGupta/Crypto-App/blob/85b01cc6ae96a5bcc25f5ff28733f9f415522137/WhatsApp%20Image%202025-07-25%20at%2020.19.03_1fb7d610.jpg"width=300 height=600>
+</div>
 
 🔧 How to Clone & Run
 ---------------------
