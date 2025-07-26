@@ -33,7 +33,7 @@ A sleek and lightweight Android app to track cryptocurrency prices in real time.
 💬 Notes
 --------
 - This app fetches data from a public crypto API (e.g., CoinGecko or similar).
-- Ensure internet permission is enabled in the manifest for live data.
+- Ensure internet permission is enabled in the manifest for live data
 - Ideal for beginners learning Kotlin Android app development.
 
-Made with ❤️ in Kotlin
+Made with ❤️ in Kotlin.
