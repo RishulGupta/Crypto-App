@@ -18,7 +18,7 @@ A sleek and lightweight Android app to track cryptocurrency prices in real time.
 
 3. Open the project in **Android Studio**.
 4. Let Gradle sync and build the project.
-5. Connect your Android device or start an emulator.
+5. Connect your Android device or start an emulator
 6. Click **Run ▶️** to launch the app
 
 ✨ Features
