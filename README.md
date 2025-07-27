@@ -9,7 +9,7 @@ A sleek and lightweight Android app to track cryptocurrency prices in real time.
 
 🔧 How to Clone & Run
 ---------------------
-1. Open terminal or command prompt.
+1. Open terminal or command prompt
 2. Run the following command to clone the repository:
    
    ```bash
